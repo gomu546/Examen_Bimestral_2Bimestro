@@ -1,0 +1,29 @@
+Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		, Munición_Misil, Munición_Mortero		    		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio	,	Munición_Misil, Munición_Mortero	,	    
+Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+Energía_	BioSensor,  Energía_BioEscaner	,
+Munición_Laser, Munición_Bayoneta		   ,Munición_Misil, Munición_Mortero		    		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		,Munición_Misil, Munición_Mortero		    		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		,Munición_Misil, Munición_Mortero		    ,
+Energía_	BioSensor,  Energía_BioEscaner	,Munición_Laser, Munición_Bayoneta		   ,
+Energía_	BioSensor,  Energía_BioEscaner	,Munición_Laser, Munición_Bayoneta		   ,
+Munición_Misil, Munición_Mortero		    ,Energía_	BioSensor,  Energía_BioEscaner			,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		,Munición_Misil, Munición_Mortero		    ,
+Energía_	BioSensor,  Energía_BioEscaner, Munición_Laser, Munición_Bayoneta		   ,
+Munición_Laser, Munición_Bayoneta		   , Energía_	BioSensor,  Energía_BioEscaner			,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		, Munición_Misil, Munición_Mortero		    ,Energía_	BioSensor,  Energía_BioEscaner	
+Munición_Laser, Munición_Bayoneta		   , Munición_Laser, Munición_Bayoneta		   ,
+Energía_GPS,    Energía_Giroscopio		,		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		, Munición_Misil, Munición_Mortero		    ,Energía_	BioSensor,  Energía_BioEscaner	
+Munición_Laser, Munición_Bayoneta		   ,Munición_Misil, Munición_Mortero		 ,  		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		, Munición_Misil, Munición_Mortero		 ,   
+Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   , 
+Energía_	BioSensor,  Energía_BioEscaner	,		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		,Munición_Misil, Munición_Mortero		 ,   
+Energía_	BioSensor,  Energía_BioEscaner, Munición_Laser, Munición_Bayoneta		   ,
+Munición_Laser, Munición_Bayoneta		 ,   		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		,Munición_Misil, Munición_Mortero		    
+Energía_	BioSensor,  Energía_BioEscaner , Munición_Laser, Munición_Bayoneta		   ,

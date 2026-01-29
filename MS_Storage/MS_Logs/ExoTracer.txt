@@ -1,0 +1,135 @@
+==== INICIO PRUEBA SISTEMA ====
+==== INICIO PRUEBA SISTEMA ====
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Misil Disparar
+==== FIN PRUEBA SISTEMA ====
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+ERROR : No se pudo cargar la grilla: Ups! Error inesperado. Por favor, contacte al administrador del sistema.
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.df.logFile : MS_Storage/MS_Logs/MS_AppErrors.log
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Misil ENTRENADA
+GOOD : SoldadoExperto Misil ENTRENADA
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Misil ENTRENADA
+GOOD : SoldadoExperto Escudo ENTRENADA
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Escudo ENTRENADA
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Misil ENTRENADA
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Misil ENTRENADA
+[2026-01-28 20:17:51] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:18:40] ERROR: Acceso denegado. Intento 1
+[2026-01-28 20:18:40] ERROR: Acceso denegado. Intento 2
+[2026-01-28 20:18:40] ERROR: Acceso denegado. Intento 3
+[2026-01-28 20:18:40] ERROR: Acceso denegado. Máximo de intentos excedido
+[2026-01-28 20:19:23] ERROR: Acceso denegado. Intento 1
+[2026-01-28 20:19:23] ERROR: Acceso denegado. Intento 2
+[2026-01-28 20:19:23] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:20:52] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+GOOD : SoldadoExperto Escudo ENTRENADA
+GOOD : SoldadoExperto Escudo ENTRENADA
+GOOD : SoldadoExperto Misil ENTRENADA
+[2026-01-28 20:22:15] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:32:34] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:33:30] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:37:51] ERROR: Acceso denegado. Intento 1
+[2026-01-28 20:37:54] ERROR: Acceso denegado. Intento 2
+[2026-01-28 20:37:56] ERROR: Acceso denegado. Intento 3
+[2026-01-28 20:37:56] ERROR: Acceso denegado. Máximo de intentos excedido
+[2026-01-28 20:38:09] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:48:01] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 20:50:05] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 21:23:42] ERROR: Acceso denegado. Intento 1
+[2026-01-28 21:24:36] ERROR: Acceso denegado. Intento 2
+[2026-01-28 21:25:41] ERROR: Acceso denegado. Intento 3
+[2026-01-28 21:25:41] ERROR: Acceso denegado. Máximo de intentos excedido
+[2026-01-28 21:26:27] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 21:31:23] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 21:34:27] ERROR: Acceso denegado. Intento 1
+[2026-01-28 21:34:38] ERROR: Acceso denegado. Intento 2
+[2026-01-28 21:34:44] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+[2026-01-28 21:38:40] GOOD : Acceso concedido
+AppConfig ?? app.properties cargado correctamente
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
+AppConfig ?? app.properties.db.File : jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite

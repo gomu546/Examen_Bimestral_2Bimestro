@@ -1,0 +1,22 @@
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 09:53:47 | CE_SexoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: CE_Sexo.Descripcion)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 10:26:25 | MS_SexoDAO.getMinReg(...) | [SQLITE_ERROR] SQL error or missing database (no such table: CE_Sexo)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 10:29:36 | MS_SexoDAO.getMinReg(...) | [SQLITE_ERROR] SQL error or missing database (no such table: CE_Sexo)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 10:36:17 | MS_SexoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: MS_Sexo.Descripcion)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 10:43:33 | MS_SexoDAO.create | [SQLITE_CONSTRAINT_NOTNULL] A NOT NULL constraint failed (NOT NULL constraint failed: MS_Sexo.Descripcion)
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 19:26:28 | MS_ExobotDAO.mapResultSetToEntity | IdTipoExobot
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 19:28:01 | MS_ExobotDAO.mapResultSetToEntity | IdTipoExobot
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 19:29:05 | MS_ExobotDAO.mapResultSetToEntity | IdExobot
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 19:36:10 | MS_ExobotDAO.mapResultSetToEntity | IdExobot
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 19:57:01 | DatabaseInitializer.initializeDatabase | database in auto-commit mode
+???? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-28 20:00:56 | DatabaseInitializer.initializeDatabase | No suitable driver found for jdbc:sqlite:MS_Storage/MS_Databases/MS_ExaBot.sqlite
