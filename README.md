@@ -1,18 +1,20 @@
-## Getting Started
+# Examen 2 Bimestre de Programación II 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene el desarrollo de eñ **Examen de programación**. 
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Información del Estudiante
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+| Campo | Valor |
+| :--- | :--- |
+| **Nombre** | Michael Sornoza |
+| **Número de Cédula** | 1751268655 |
+| **Fecha de Presentación** | 28/01/2025 |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🔗 Repositorio en GitHub
 
-## Dependency Management
+https://github.com/gomu546/Examen_Bimestral_2Bimestro.git
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
